@@ -1,0 +1,11 @@
+@import "about.css";
+
+.prof-content {
+  height: 100%;
+}
+
+.footer {
+  position:absolute;
+  bottom:0;
+  
+}

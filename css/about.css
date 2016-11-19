@@ -1,0 +1,65 @@
+html {
+  background: url("../images/portfolio2.jpg") no-repeat;
+  background-size: cover;
+}
+
+.prof-wrapper {
+  max-width: 70%;
+  margin: 0 auto 10px;
+}
+
+.prof-content {
+  width: 50%;
+  height: 550px;
+  background: rgba(0, 0, 0, 0.3);
+  margin: 8px auto 0;
+  /*margin-top: 60px;*/
+  text-align: center;
+  padding: 20px;
+}
+
+.prof-pic {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+.prof-content h1 {
+  font-family: sans;
+  font-weight: 200;
+  letter-spacing: 6px;
+  font-size: 40px;
+  color: #ffd700;
+  border-bottom: 2px solid #ffd700;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.prof-content p {
+  padding: 10px;
+}
+
+.div-border {
+  width: 300px;
+  border-top: 1px solid white;
+  margin: 20px auto;
+  /*margin: 10px;*/
+}
+
+.social-icons {
+
+}
+
+.social-icons a {
+  text-decoration: none;
+  color: white;
+  padding: 0 10px;
+  font-size: 30px;
+}
+
+.footer {
+  /*display: block;*/
+  position: relative;
+
+}
